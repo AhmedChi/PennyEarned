@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Penny Earned App", "Penny Earned App\Penny Earned App.csproj", "{B2FE4EAB-C375-4DC6-A64D-C9A03C37A28E}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PennyEarnedDatabase", "PennyEarnedDatabase\PennyEarnedDatabase.sqlproj", "{1978B4C4-EBA9-4B4E-8DB1-008BE22D5D82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2FE4EAB-C375-4DC6-A64D-C9A03C37A28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FE4EAB-C375-4DC6-A64D-C9A03C37A28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FE4EAB-C375-4DC6-A64D-C9A03C37A28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FE4EAB-C375-4DC6-A64D-C9A03C37A28E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1978B4C4-EBA9-4B4E-8DB1-008BE22D5D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1978B4C4-EBA9-4B4E-8DB1-008BE22D5D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1978B4C4-EBA9-4B4E-8DB1-008BE22D5D82}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1978B4C4-EBA9-4B4E-8DB1-008BE22D5D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1978B4C4-EBA9-4B4E-8DB1-008BE22D5D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1978B4C4-EBA9-4B4E-8DB1-008BE22D5D82}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCFF2710-F8AB-4D1B-9080-CD49D2AA3B55}
+	EndGlobalSection
+EndGlobal
